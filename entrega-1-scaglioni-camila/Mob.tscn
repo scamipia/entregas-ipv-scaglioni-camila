@@ -30,7 +30,7 @@ animations = [ {
 radius = 45.977
 height = 3.38277
 
-[node name="RigidBody2D" type="RigidBody2D"]
+[node name="RigidBody2D" type="RigidBody2D" groups=["mobs"]]
 position = Vector2( -1, 0 )
 collision_mask = 0
 gravity_scale = 0.0
